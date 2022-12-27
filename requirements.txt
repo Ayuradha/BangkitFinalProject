@@ -3,5 +3,5 @@ pillow
 numpy
 pandas
 tensorflow==2.0.0
-setuptools==41.0.0
+setuptools==65.5.1
 keras
